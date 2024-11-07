@@ -11,10 +11,4 @@ I'm an **iOS Software Developer** with experience in mobile app development and 
 - **Languages:** HTML, CSS, JavaScript, Swift, Java
 - **Frameworks & Libraries:** SwiftUI, Bootstrap
 - **Tools:** GitHub, Figma, CMS Wordpress
-- **Language** Skills: English, Russian, Kazakh 
-
-### Projects
-- [Multi Links](http://adlmks.github.io/adilmaks/) — My personal multi links.
-- [Connectify](https://github.com/username/connectify) — A social network prototype.
-- [Expenses App](https://github.com/adlmks/My-Expenses-App) – Swift Application for tracking personal expenses.
-- [Guess the flags](https://github.com/adlmks/Guess-the-Flags-App) – Simple Swift Application for guessing flags.
+- **Language** Skills: English, Russian, Kazakh
