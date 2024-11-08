@@ -9,6 +9,6 @@ I'm an **iOS Software Developer** with experience in mobile app development and 
 
 ### Skills & Technologies
 - **Languages:** HTML, CSS, JavaScript, Swift, Java
-- **Frameworks & Libraries:** SwiftUI, Bootstrap
+- **Frameworks & Libraries:** UIKit, SwiftUI, Bootstrap
 - **Tools:** GitHub, Figma, CMS Wordpress
-- **Language** Skills: English, Russian, Kazakh
+- **Language Skills**: Kazakh, English, Russian
