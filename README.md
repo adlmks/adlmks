@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Adil Maksutov
+# Hi there! 👋 I'm Adil
 
 I'm an **iOS Software Developer** with experience in mobile app development and UI design. Currently, I'm also working on personal projects in iOS Applications, web development and UI&UX Designs.
 
